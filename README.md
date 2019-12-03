@@ -1,0 +1,1 @@
+Datomic.ion stub for integrations tests.
