@@ -1,7 +1,5 @@
 (ns datomic.ion.cast)
 
-; CAY LE BON
-
 (defn event
   [& _] nil)
 
